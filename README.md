@@ -1,2 +1,3 @@
-# website
-website using html and css
+# Website
+Website using HTML and CSS
+
